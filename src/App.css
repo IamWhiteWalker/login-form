@@ -1,0 +1,29 @@
+.app {
+  background-color: rgb(52, 90, 160);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.login-success{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgb(250, 31, 31);
+  width: 466px;
+    text-align: center;
+    height: 211px;
+    color:rgb(228, 231, 13)
+}
+
+.login-success button{
+  cursor: pointer;
+  font-size: 15px;
+  background: #0a545e;
+  border: 1px solid #01d28e;
+  color: #fff;
+  margin-top: 11px;
+    width: 87px;
+    height: 30px;
+}
+
